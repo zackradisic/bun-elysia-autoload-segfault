@@ -1,0 +1,14 @@
+{
+  "name": ".",
+  "scripts": {
+    "dev": "bun src/index.ts --watch"
+  },
+  "dependencies": {
+    "elysia": "^0.8.15",
+    "elysia-autoload": "^0.1.5"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3",
+    "@types/bun": "^1.0.4"
+  }
+}

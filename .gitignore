@@ -1,0 +1,7 @@
+dist
+node_modules/
+!node_modules/elysia/
+!node_modules/elysia/**/*
+!node_modules/elysia-autoload/
+!node_modules/elysia-autoload/**/*
+.env
